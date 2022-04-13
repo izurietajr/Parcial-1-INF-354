@@ -2,3 +2,10 @@
 * Parcial 1 INF 354
 
 Jesus Rodolfo Izurieta Veliz
+
+** Dataset
+https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
+
+El dataset incluído en el directorio /data, representa únicamente 5000 líneas
+del dataset original, el cual consta de 2800000 filas, ocupando 1.3 GB, por esto
+no se incluye en el repositorio.
