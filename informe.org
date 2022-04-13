@@ -1,0 +1,29 @@
+#+title: Primer parcial INF 354
+#+setupfile: ~/org/templates/tarea.org
+#+latex_header: \newcommand{\hleft}{Informe 1er parcial}
+#+latex_header: \newcommand{\hright}{Jesus Rodolfo Izurieta Veliz}
+#+latex_header: \setlength{\parindent}{0em}
+
+
+* Enunciados
+
+1. Seleccione un dataset del area medica o de abogacia (datos tabulares). Realice lo siguiente:
+
+   a. El calculo del 1er cuartil de datos, el percentil 50 por columna; explique qué significa en cada caso mediante Python sin uso de librerías
+
+   b. Realice lo mismo del inciso (a) con el uso de numpy y pandas
+
+   c. Grafique los datos y explique su comportamiento (PYTHON)
+
+2. Del dataset anterior realice en WEKA, tres algoritmos de preprocesamiento.
+
+3. Del dataset anterior realice en PYTHON, tres algoritmos de preprocesamiento.
+
+4. Con el uso de librerías en PYTHON, construya la dependencia de Abuelos, tios, padres, primos e hijos de su familia.
+
+5. En PYTHON grafique el arbol de decision del dataset seleccionado.
+
+Cada pregunta debe ser almacenada en Github, la misma permitir su acceso minimamente a msilva@fcpn.edu.bo. Adjuntar el link por pregunta en un PDF o Word y enviarlo para su revisión.
+
+* Solución
+Parcial resuelto: https://github.com/izurietajr/Parcial-1-INF-354
